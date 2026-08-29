@@ -45,7 +45,7 @@ Construo automações que tiram trabalho manual do caminho: rotinas de arquivos 
 
 ### Experiência
 
-**Técnico de Informática / Automação de Processos** — Contab Contabilidade, Birigui-SP
+**Técnico de Informática / Automação de Processos** - Contab Contabilidade, Birigui-SP
 *Nov/2021 → Atual*
 
 - Automação de tratamento de arquivos fiscais (XML, PDF, chaves de acesso)
